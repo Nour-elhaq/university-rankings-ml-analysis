@@ -139,6 +139,11 @@ All visualizations are **300 DPI**, publication-ready quality.
 - Python 3.8 or higher
 - Conda (recommended) or pip
 
+### Clone Repository
+```bash
+git clone https://github.com/yourusername/university-rankings-analysis.git
+cd university-rankings-analysis
+```
 
 ### Install Dependencies
 
@@ -364,8 +369,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Nour-elhaq)
-- Email: Elmacouti.nourelhaq@ucd.ac.ma
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com
 
 ---
 
@@ -400,7 +406,7 @@ If you use this project in your research, please cite:
   author = {Your Name},
   title = {University Rankings Data Analysis & Machine Learning},
   year = {2026},
-  url = {https://github.com/Nour-elhaq/university-rankings-analysis}
+  url = {https://github.com/yourusername/university-rankings-analysis}
 }
 ```
 
