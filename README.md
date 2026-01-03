@@ -139,11 +139,6 @@ All visualizations are **300 DPI**, publication-ready quality.
 - Python 3.8 or higher
 - Conda (recommended) or pip
 
-### Clone Repository
-```bash
-git clone https://github.com/yourusername/university-rankings-analysis.git
-cd university-rankings-analysis
-```
 
 ### Install Dependencies
 
