@@ -403,27 +403,17 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{university_rankings_analysis,
-  author = {Your Name},
-  title = {University Rankings Data Analysis & Machine Learning},
-  year = {2026},
-  url = {https://github.com/yourusername/university-rankings-analysis}
+  author = {El Macouti Nour El Haq},
+  title  = {University Rankings Data Analysis & Machine Learning},
+  year   = {2026},
+  url    = {https://github.com/yourusername/university-rankings-analysis},
+  doi    = {10.5281/zenodo.18135977}
 }
+
 ```
+[![DOI](https://zenodo.org/badge/1126993246.svg)](https://doi.org/10.5281/zenodo.18135977)
 
 ---
 
-## 🔗 Related Projects
 
-- [QS Rankings Analyzer](https://github.com/example/qs-rankings)
-- [Education Data Science](https://github.com/example/edu-datascience)
-- [University ML Benchmarks](https://github.com/example/uni-ml)
 
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-Made with ❤️ and Python
-
-</div>
